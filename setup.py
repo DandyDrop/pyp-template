@@ -19,5 +19,6 @@ setuptools.setup(
         'Operating System :: OS Independent',
     ],
     keywords='python package template',
-    install_requires=requirements
+    install_requires=requirements,
+    packages=setuptools.find_packages()
 )
