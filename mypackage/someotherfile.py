@@ -1,1 +1,2 @@
-print('me')
+def a():
+    print('from here')
