@@ -1,1 +1,1 @@
-import mainmypc
+from mainmypc import *
