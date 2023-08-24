@@ -1,6 +1,6 @@
 import setuptools
 
-with open("README.md", "r") as f:
+with open('README.md', 'r') as f:
     long_description = f.read()
 
 setuptools.setup(
@@ -10,7 +10,7 @@ setuptools.setup(
     description="A simple way to allow others access your Flask server using public url.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/gstaff/flask-ngrok",
+    url="https://github.com/DandyDrop/pyp-template",
     classifiers=[
         "Programming Language :: Python :: 3.11",
         "Operating System :: OS Independent",
