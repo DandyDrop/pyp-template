@@ -15,6 +15,5 @@ setuptools.setup(
         'Programming Language :: Python :: 3.11',
         'Operating System :: OS Independent',
     ],
-    keywords='python package template',
-    install_requires=['Flask>=0.8', 'requests']
+    keywords='python package template'
 )
