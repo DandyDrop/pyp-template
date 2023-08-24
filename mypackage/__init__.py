@@ -1,1 +1,1 @@
-from flask_ngrok import *
+import mainmypc
