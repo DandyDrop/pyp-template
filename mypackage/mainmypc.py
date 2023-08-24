@@ -1,4 +1,4 @@
-from someotherfile import *
+from .someotherfile import *
 
 
 
