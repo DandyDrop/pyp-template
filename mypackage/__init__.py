@@ -1,1 +1,0 @@
-from .mainmypc import *
